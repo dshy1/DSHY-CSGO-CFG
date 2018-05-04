@@ -7,7 +7,7 @@
 ##### - PrintScreen
 [![TITULO](ENDEREÇO "TITULO")](LINK "TITULO")
 
-# dshy.cfg :shipit:
+# dshy.cfg 
 - Guia de [Instalação][1] 
 
 Após a instalação basta abrir o jogo, abrir o console e digitar o seguinte comando.
@@ -18,6 +18,11 @@ E tudo funcionará perfeitamente.
 
 - Caso esteja com dificuldade de executar os comandos veja o vídeo em anexo á instalação.
 
-### Instalação
-
+###Instalação
 [1]: #Instalação "Instalação"
+* Para instalar a configuração, basta fazer o donwload desse pacote, entrar na pasta cfg do seu jogo e extrair os arquivos baixados.
+###### Local do meu CS:GO
+```
+C:Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg
+```
+#### OBS: Seu local pode ser diferente
