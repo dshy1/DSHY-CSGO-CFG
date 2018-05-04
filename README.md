@@ -12,7 +12,7 @@
 
 Após a instalação basta abrir o jogo, abrir o console e digitar o seguinte comando.
 ```
-exec dshy.cfg
+exec install.cfg
 ```
 E tudo funcionará perfeitamente.
 
