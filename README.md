@@ -1,4 +1,4 @@
-###Características 
+### Características 
 - Configuração desenvolvida para CS:GO
 - Configuração dividida em pastas e sub-pastas
 - Arquivo com exemplos de todos os comandos do game. 
@@ -18,6 +18,6 @@ E tudo funcionará perfeitamente.
 
 - Caso esteja com dificuldade de executar os comandos veja o vídeo em anexo á instalação.
 
-###Instalação
+### Instalação
 
 [1]: #Instalação "Instalação"
