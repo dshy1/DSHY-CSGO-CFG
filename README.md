@@ -18,7 +18,7 @@ E tudo funcionará perfeitamente.
 
 - Caso esteja com dificuldade de executar os comandos veja o vídeo em anexo á instalação.
 
-###Instalação
+### Instalação
 [1]: #Instalação "Instalação"
 * Para instalar a configuração, basta fazer o donwload desse pacote, entrar na pasta cfg do seu jogo e extrair os arquivos baixados.
 ###### Local do meu CS:GO
