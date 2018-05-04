@@ -7,7 +7,7 @@
 ##### - PrintScreen
 [![TITULO](ENDEREÇO "TITULO")](LINK "TITULO")
 
-# dshy.cfg :tw-1f3c1:
+# dshy.cfg :shipit:
 - Guia de [Instalação][1] 
 
 Após a instalação basta abrir o jogo, abrir o console e digitar o seguinte comando.
